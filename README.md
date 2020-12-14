@@ -1,6 +1,6 @@
-# TMRDataSet2018
+# TMRDataSet2020
 
-This repository contains the TMRDataSet2018 dataset presented in the paper "Automatic Transportation Mode Recognition on smartphone data based on Deep Neural Networks" currently undergoing peer review. 
+This repository contains the TMRDataSet2020 dataset presented in the paper "Automatic Transportation Mode Recognition on smartphone data based on Deep Neural Networks" currently undergoing peer review. 
 
 All the data gathered by the Repository owner is made public. The repository is currently a work in progress, as it will be populated more and refined by the authors before publication.
 
